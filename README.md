@@ -1,4 +1,4 @@
-# Lazarus source code Version 2.105
+# Lazarus Source Code - Version 2.105
 
 Source code base for the Lazarus project.
 
